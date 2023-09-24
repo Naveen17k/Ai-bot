@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ai-bot/static/css/main.c5a91945.css",
+    "main.js": "/Ai-bot/static/js/main.cbb4946d.js",
+    "static/js/787.a66fdccd.chunk.js": "/Ai-bot/static/js/787.a66fdccd.chunk.js",
+    "index.html": "/Ai-bot/index.html",
+    "main.c5a91945.css.map": "/Ai-bot/static/css/main.c5a91945.css.map",
+    "main.cbb4946d.js.map": "/Ai-bot/static/js/main.cbb4946d.js.map",
+    "787.a66fdccd.chunk.js.map": "/Ai-bot/static/js/787.a66fdccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a91945.css",
+    "static/js/main.cbb4946d.js"
+  ]
+}
